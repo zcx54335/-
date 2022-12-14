@@ -15,6 +15,7 @@
         <module>csc-order</module>
         <module>csc-product</module>
         <module>csc-ware</module>
+        <module>renren-fast</module>
     </modules>
 
 </project>
