@@ -16,6 +16,8 @@
         <module>csc-product</module>
         <module>csc-ware</module>
         <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>csc-common</module>
     </modules>
 
 </project>
